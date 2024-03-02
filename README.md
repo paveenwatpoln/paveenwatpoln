@@ -1,5 +1,5 @@
 # 👋 Hello World! 
-- My name is **Paveenwat Polnikorn (Peeta)**
+- Hi, I'm **Paveenwat Polnikorn (Peeta)**
 - Recently graduated from Warwick Business School **(MSc in Business Analytics)**.
 - Actively seeking a role as a **Data Analyst/ Data Scientist** based in Bangkok, Thailand.
 
@@ -10,7 +10,7 @@
 
 ### 🌱 Currently Learning
 - Advanced machine learning techniques
-- New data visualization tools.
+- Data storytelling.
 
 ### 🌐 Connect with Me
 - Email: paveenwatpoln@gmail.com
