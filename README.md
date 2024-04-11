@@ -5,7 +5,7 @@
 
 ### 🚀 Skills and Expertise
 - **Programming Languages:** SQL, R, Python
-- **Frameworks & Libraries:** Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow
+- **Frameworks & Libraries:** Pandas, NumPy, Matplotlib, scikit-learn
 - **Visualization Tools:** Tableau, Power BI, MS Excel
 
 ### 🌱 Currently Learning
