@@ -4,8 +4,7 @@
 - Actively seeking a role as a **Data Analyst/ Data Scientist** based in Bangkok, Thailand.
 
 ### 🚀 Skills and Expertise
-- **Programming Languages:** SQL, R, Python
-- **Frameworks & Libraries:** Pandas, NumPy, Matplotlib, scikit-learn
+- **Programming Languages:** SQL, R (tidyverse, ggplot2), Python (Pandas, NumPy, Matplotlib, scikit-learn)
 - **Visualization Tools:** Tableau, Power BI, MS Excel
 
 ### 🌱 Currently Learning
