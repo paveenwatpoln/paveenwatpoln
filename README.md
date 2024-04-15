@@ -9,7 +9,8 @@
 
 ### 🌱 Currently Learning
 - Advanced machine learning techniques
-- Data storytelling.
+- Data storytelling
+- Public speaking
 
 ### 🌐 Connect with Me
 - Email: paveenwatpoln@gmail.com
