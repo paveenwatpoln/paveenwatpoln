@@ -1,7 +1,7 @@
 # 👋 Hello World! 
 - Hi, I'm **Paveenwat Polnikorn (Peeta)**
 - Recently graduated from Warwick Business School **(MSc in Business Analytics)**.
-- Actively seeking a role as a **Data Analyst/ Data Scientist** based in Bangkok, Thailand.
+- Actively seeking a role as a **Data Engineer** based in Bangkok, Thailand.
 
 ### 🚀 Skills and Expertise
 - **Programming Languages:** SQL, R (tidyverse, ggplot2), Python (Pandas, NumPy, Matplotlib, scikit-learn)
